@@ -1,0 +1,5 @@
+llamafactory项目地址：https://github.com/hiyouga/LLaMA-Factory
+chatglm3-6B-Base模型地址：https://huggingface.co/THUDM/chatglm3-6b-base
+adapter文件：checkpoint文件夹
+server端：sever文件夹
+API调用：运行api-demo.py调用
